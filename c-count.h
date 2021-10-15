@@ -16,3 +16,10 @@ unsigned int count(const std::string& str){
   return counter;
 }
 
+int count(const std::string& phrase) {
+    return 0;
+}
+
+// count function should go here
+>>>>>>> ArturoMillan/count-test
+
